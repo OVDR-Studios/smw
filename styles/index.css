@@ -162,6 +162,10 @@ background-color: transparent;
    text-decoration: underline;
 }
 
+.text a:visited {
+   text-decoration: none;
+}
+
 /* #live-iframe {
     display: none;
 } */
